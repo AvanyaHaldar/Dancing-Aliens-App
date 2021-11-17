@@ -1,0 +1,48 @@
+body{
+    background-image:url("Alien Background.jpg") ;
+    background-size: cover;
+    font-family: 'Cinzel Decorative', cursive;
+}
+.header_div{
+    background-color: rgb(231, 142, 172);
+    color: rebeccapurple;
+}
+.header_div p{
+    font-family: 'Roboto', sans-serif;
+    color: rgb(255, 255, 255);
+    letter-spacing: 2px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Comic Neue', cursive;
+    font-size: 22px;
+    margin-top: 20px;
+    width: 130px;
+    letter-spacing: 3px;
+    background-color: yellow;
+    color: black;
+}
+
+.copy_right_footer{
+    text-shadow: 5px 5px 4px purple;
+    position: fixed ;
+    color: purple;
+    font-size: 20px;
+    width: 100%;
+    background-color: rgb(191, 245, 111);
+    text-align: center;
+    line-height:3;
+    bottom:0 ;
+}
+h3{
+    background-color: ghostwhite;
+    padding: 10px;
+    width: 40%;
+}
+
+h4{
+    background-color: ghostwhite;
+    padding: 10px;
+    width: 20%;
+}
